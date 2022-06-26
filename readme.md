@@ -1,4 +1,4 @@
-# Amigoscode lead tutorial on CLI
+# Amigoscode led tutorial on CLI
 
 walking through modules on amigoscode
 creating notes
